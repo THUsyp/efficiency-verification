@@ -1,0 +1,8 @@
+/home/thusyp/geant4_workspace/efficiency-verificaiton/cmake-build-debug/CMakeFiles/exampleB1.dir
+/home/thusyp/geant4_workspace/efficiency-verificaiton/cmake-build-debug/CMakeFiles/B1.dir
+/home/thusyp/geant4_workspace/efficiency-verificaiton/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thusyp/geant4_workspace/efficiency-verificaiton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thusyp/geant4_workspace/efficiency-verificaiton/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/thusyp/geant4_workspace/efficiency-verificaiton/cmake-build-debug/CMakeFiles/install.dir
+/home/thusyp/geant4_workspace/efficiency-verificaiton/cmake-build-debug/CMakeFiles/install/local.dir
+/home/thusyp/geant4_workspace/efficiency-verificaiton/cmake-build-debug/CMakeFiles/install/strip.dir
