@@ -67,7 +67,7 @@ void SYPRunAction::EndOfRunAction(const G4Run* run)
   }
 
   G4cout
-  <<" Detection Efficiency in Chamber is: " << count << " "<<" " << (count)*100/1000000 << " % "
+  <<" Detection Efficiency in Chamber is: " << count << " "<<" " << (count)*100/10000000 << " % "
   << G4endl;
 }
 
